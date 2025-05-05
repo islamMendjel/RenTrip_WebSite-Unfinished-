@@ -15,9 +15,8 @@ RenTrip is a modern, responsive algerian **car-rental** web application built wi
 
 ### 🛠 Technology Stack
 - **Frontend:** HTML5, CSS3
-- **Backend:** PHP 8+, MySQL  
-- **Fonts & Icons:** Google Fonts, Font Awesome  
-- **Domain & Hosting:** Unfinished
+- **Backend:** PHP , MySQL  
+- **Domain & Hosting:** No
 
 ---
 
