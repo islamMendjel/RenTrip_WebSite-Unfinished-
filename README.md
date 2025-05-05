@@ -21,7 +21,7 @@ RenTrip is a modern, responsive algerian **car-rental** web application built wi
 
 ---
 
-### 🚀 Installation
+### 🚀 Installation (Unfinished Until Now)
 1. **Clone** the repo  
    ```bash
    git clone https://github.com/islamMendjel/RenTrip_WebSite-Uncompleted-.git
